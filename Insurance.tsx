@@ -40,11 +40,7 @@ const Insurance = () => {
   const insurances = [
     "Blue Cross Blue Shield",
     "Aetna",
-    "Cigna",
-    "United Healthcare",
-    "Medicare",
     "Harvard Pilgrim",
-    "Tufts Health Plan",
     "AllWays Health Partners"
   ];
 
